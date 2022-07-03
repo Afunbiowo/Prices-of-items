@@ -1,0 +1,1 @@
+This code performs arithmetic operation on elements (numbers) in an array at different indices. It uses the If() statement and later prints array, after all arithmetic operations has been performed
